@@ -1,8 +1,11 @@
-def greeting_a_person(name)
-  puts "Hello #{name}"
+def intoroduction(name)
+  puts "Hi, my name is #{name}."
 end
 
-greeting()
+def introduction_with_language(name, language)
+  puts ""
+
+
 
 
 
